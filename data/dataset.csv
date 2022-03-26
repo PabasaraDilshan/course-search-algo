@@ -1,0 +1,57 @@
+id,regionCode,region,timePeriod,allStudentLv3,avgPerfPerStd,avgPerfPerEntry,olvlRes,alvlRes,percOfStudents,prefArea,excUni
+1,E92000001,Wellawatte,2020/21,335681,728.3,213.1,"1A, 2B, 4C, 2S","2A, 1B",93.6,Bsc physics,British College of Applied Studies
+2,E12000008,mathara,2020/21,54713,742.7,215,"3B, 4D, 2C",3A,93.8,Bsc community Science,Sri lanka Institute of Information Technology
+3,E10000030,Polonnaruwa,2020/21,7051,767.4,217.6,"2C, 4D, 2S","1A, 1B, 1C",94.7,Bsc IT,Spectrum Institute of Science and Technology
+4,E07000207,Homagama,2020/21,736,766,218.4,"6A, 3S, 1B","2A, 1B",95,BSc Geography,NSBM Green University
+5,E07000208,colombo,2020/21,550,774.5,217.4,"7A, 1B, 4C","2A, 1C",94.4,Bsc IT,APIIT
+6,E07000209,Kollupitiya,2020/21,818,791.3,218.8,"4A, 3C, 1S","1A, 2B",94.6,Bsc physics,Sri lanka Institute of Information Technology
+7,E07000210,Trincomalee,2020/21,506,807.3,217.7,"5B, 2S, 1C","2B, 1C",95.3,Bsc Animation,Cinec Campus
+8,E07000211,Negombo,2020/21,833,746.5,220.5,"6A, 3S, 1B",3B,94.1,Bsc Chemistry Course Curriculum,Informatics Institute of Technology
+9,E07000212,Anuradhapura,2020/21,421,718,212.8,"4A, 2B, 3C","1B, 2C",92.2,Bsc Biotechnology,Sri lanka Institute of Information Technology
+10,E07000213,Jaffna,2020/21,556,691.4,208.5,"6A, 3S, 1B",3C,92.1,Bsc IT,British College of Applied Studies
+11,E07000214,colombo,2020/21,684,812.7,216,"7A, 2B, 1C","1A, 2C",96.2,Bsc Home Science,APIIT
+12,E07000215,bambalapitiya,2020/21,492,751.2,218.2,"4A, 3C, 1S","1A, 2B",96.5,Bsc physics,AOD
+13,E07000216,Vavuniya,2020/21,752,788.1,222.4,"5B, 2S, 1C","2A, 1B",95.6,Bsc Animation,South East University of Sri Lanka
+14,E07000217,bambalapitiya,2020/21,703,766.6,217.6,"6A, 3S, 1B","2A, 1B",95.2,Bsc Economics,AOD
+15,E92000001,Homagama,2020/21,346833,714.6,209.3,"6C, 2B, 1A","2A, 1C",93.1,BSc Geography,NSBM Green University
+16,E12000008,Dambulla,2020/21,57934,729.8,211.5,"7A, 1B, 4C","1A, 2C",93.2,Bsc in Art faculty,Informatics Institute of Technology
+17,E10000030,Homagama,2020/21,7607,756.3,214.8,"4A, 4B, 3C",3C,94.2,Bsc Geology,NSBM Green University
+18,E07000207,Wadduwa,2020/21,744,763.4,218.5,"3B, 2C, 5A","1A, 2B",95,Bsc Nursing,Spectrum Institute of Science and Technology
+19,E07000208,Wellawatte,2020/21,567,775,216.8,"4A, 3C, 1S","2A, 1C",96.3,Bsc Electronics & Communication,Sri lanka Institute of Information Technology
+20,E07000209,Battaramulla,2020/21,857,783,217.3,"6A, 3S, 1B","1A, 1B, 1C",93.3,Bsc Computer Science,Informatics Institute of Technology
+21,E07000210,Trincomalee,2020/21,617,778.9,206.9,"4A, 2B, 3C","2A, 1B",95.9,Bsc IT,Cinec Campus
+22,E07000211,Negombo,2020/21,915,734.4,220.4,"6A, 3S, 1B","2B, 1C",95.3,Bsc Forestry,National Institute of Business Management
+23,E07000212,colombo,2020/21,466,717.9,210.7,"5B,  2S,  1C","1C, 2S",95.1,Bsc Botany,APIIT
+24,E07000213,Jaffna,2020/21,604,670.5,203.6,"7A, 1B, 4C","1S, 2C",91.6,Bsc Animation,Spectrum Institute of Science and Technology
+25,E07000214,maya avenu,2020/21,736,816.6,213.4,"4A, 4B, 3C",3S,94.2,BSc Geography,ANC Education
+26,E07000215,Kalmunai,2020/21,558,696.9,210.6,"6A, 3S, 1B","1S, 2C",94.4,Bsc Mathematics Course Curriculum,saegis campus
+27,E07000216,Vavuniya,2020/21,842,786.2,220.2,"4A, 3C, 1S","2A, 1B",93.7,Bsc in Art faculty,South East University of Sri Lanka
+28,E07000217,Kurunegala,2020/21,701,757.5,216.8,"6C, 2B, 1A","1C, 2S",91.3,Bsc Admission Process,Sri Lanka Technological Campus
+29,E92000001,Kelaniya,2020/21,358474,706.4,210.6,"6A, 3S, 1B","1A, 2B",91.7,Bsc Chemistry Course Curriculum,British College of Applied Studies
+30,E12000008,Dambulla,2020/21,57780,725.8,212.9,"5B, 2S, 1C","2A, 1C",92.3,Bsc Biochemistry,NSBM Green University
+31,E10000030,Polonnaruwa,2020/21,7662,750.3,215.7,"7A, 2B, 1C","2B, 1C",92.7,BSc Horticulture,ICBT Campus
+32,E07000207,Panadura,2020/21,735,739.8,217.3,"5B, 2S, 1C",3S,92,Bsc Home Science,National Institute of Business Management
+33,E07000208,Kollupitiya,2020/21,638,757.2,218.2,"4A, 4B, 3C","1A, 2B",95.6,Bsc Chemistry Course Curriculum,APIIT
+34,E07000209,Battaramulla,2020/21,805,767.5,214,"7A, 1B, 4C","1S, 2C",93.3,Bsc Electronics & Communication,Sri lanka Institute of Information Technology
+35,E07000210,Trincomalee,2020/21,650,781,213,"4A, 3C, 1S","1C, 2S",94,Bsc physics,Cinec Campus
+36,E07000211,Negombo,2020/21,1000,735.5,222.2,"7A, 1B, 4C",3C,92.9,Bsc Geology,National Institute of Business Management
+37,E07000212,Anuradhapura,2020/21,442,692.8,210.8,"6A, 3S, 1B",3S,91.4,Bsc Computer Science,AIC Campus
+38,E07000213,Mullativu,2020/21,667,652.9,205.3,"7A, 1B, 4C","1C, 2S",90.6,Bsc Nursing,British College of Applied Studies
+39,E07000214,Ratnapura,2020/21,735,782.4,211.5,"5B, 2S, 1C",3C,91.7,Bsc Economics,ICBT Campus
+40,E07000215,Kalmunai,2020/21,569,686.9,213.4,"7A, 1B, 4C","2A, 1C",91,Bsc Hospitality,University of Vocational Technology
+41,E07000216,Vavuniya,2020/21,764,771.8,217.9,"5B,  2S,  1C","1A, 2C",94.4,Bsc Agriculture,South East University of Sri Lanka
+42,E07000217,Kurunegala,2020/21,657,758.9,218.5,"7A, 1B, 4C","1A, 2C",92.1,Bsc Biochemistry,Informatics Institute of Technology
+43,E92000001,Kelaniya,2020/21,362952,696.3,211.5,"6A, 3S, 1B","2A, 1B",89.8,Bsc Admission Process,ACBT Campus
+44,E12000008,Dambulla,2020/21,60097,714,213,"7A, 1B, 4C","1S, 2C",90.4,Bsc Zoology,Management & Science Institute
+45,E10000030,Polonnaruwa,2020/21,7824,737,205.2,"5B, 2S, 1C","2A, 1B",92.5,Bsc Statistics,Sri Lanka Technological Campus
+46,E07000207,Moratuwa,2020/21,811,717.7,214.8,"6A, 3S, 1B","1A, 2B",91.4,Bsc Economics,saegis campus
+47,E07000208,Kollupitiya,2020/21,605,768.3,221.3,"3B, 4D, 2C","1A, 2C",95,Bsc Chemistry Course Curriculum,AIC Campus
+48,E07000209,Battaramulla,2020/21,834,761.8,217.7,"6A, 3S, 1B","2A, 1B",93.9,Bsc Fashion Designing,saegis campus
+49,E07000210,Trincomalee,2020/21,626,790.3,215,"4A, 4B, 3C","2A, 1B",94.9,BSc Geography,Cinec Campus
+50,E07000211,Negombo,2020/21,979,735.3,221.5,"6A, 3S, 1B","1B, 2C",92.1,BSc Horticulture,ICBT Campus
+51,E07000212,Anuradhapura,2020/21,444,676,208.1,"5B, 2S, 1C","1C, 2S",87.6,Bsc Agriculture,ICBT Campus
+52,E07000213,Mullativu,2020/21,654,664.8,206.4,"4A, 3C, 1S","2B, 1C",90.1,Bsc Fashion Designing,AIC Campus
+53,E07000214,Kollupitiya,2020/21,733,772.2,214.2,"4A, 2B, 3C","1A, 2B",92,Bsc IT,ACBT Campus
+54,E07000215,Kalmunai,2020/21,585,701.7,216.7,"7A, 1B, 4C","1A, 2B",92,Bsc Chemistry Course Curriculum,Management & Science Institute
+55,E07000216,Vavuniya,2020/21,802,757.9,217.8,"5B, 2S, 1C","1S, 2C",95.4,Bsc community Science,South East University of Sri Lanka
+56,E07000217,kandy,2020/21,751,732.6,215.4,"6A, 3S, 1B","1S, 2C",91.1,Bsc Electronics & Communication,ANC Education

@@ -1,0 +1,1172 @@
+{
+    "1": {
+        "id": "1",
+        "regionCode": "E92000001",
+        "region": "Wellawatte",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "335681",
+        "avgPerfPerStd": "728.3",
+        "avgPerfPerEntry": "213.1",
+        "olvlRes": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "S": "2"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "93.6",
+        "prefArea": "Bsc physics",
+        "excUni": "British College of Applied Studies"
+    },
+    "2": {
+        "id": "2",
+        "regionCode": "E12000008",
+        "region": "mathara",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "54713",
+        "avgPerfPerStd": "742.7",
+        "avgPerfPerEntry": "215.0",
+        "olvlRes": {
+            "B": "3",
+            "D": "4",
+            "C": "2"
+        },
+        "alvlRes": {
+            "A": "3"
+        },
+        "percOfStudents": "93.8",
+        "prefArea": "Bsc community Science",
+        "excUni": "Sri lanka Institute of Information Technology"
+    },
+    "3": {
+        "id": "3",
+        "regionCode": "E10000030",
+        "region": "Polonnaruwa",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "7051",
+        "avgPerfPerStd": "767.4",
+        "avgPerfPerEntry": "217.6",
+        "olvlRes": {
+            "C": "2",
+            "D": "4",
+            "S": "2"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "1",
+            "C": "1"
+        },
+        "percOfStudents": "94.7",
+        "prefArea": "Bsc IT",
+        "excUni": "Spectrum Institute of Science and Technology"
+    },
+    "4": {
+        "id": "4",
+        "regionCode": "E07000207",
+        "region": "Homagama",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "736",
+        "avgPerfPerStd": "766.0",
+        "avgPerfPerEntry": "218.4",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "95.0",
+        "prefArea": "BSc Geography",
+        "excUni": "NSBM Green University"
+    },
+    "5": {
+        "id": "5",
+        "regionCode": "E07000208",
+        "region": "colombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "550",
+        "avgPerfPerStd": "774.5",
+        "avgPerfPerEntry": "217.4",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "A": "2",
+            "C": "1"
+        },
+        "percOfStudents": "94.4",
+        "prefArea": "Bsc IT",
+        "excUni": "APIIT"
+    },
+    "6": {
+        "id": "6",
+        "regionCode": "E07000209",
+        "region": "Kollupitiya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "818",
+        "avgPerfPerStd": "791.3",
+        "avgPerfPerEntry": "218.8",
+        "olvlRes": {
+            "A": "4",
+            "C": "3",
+            "S": "1"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "94.6",
+        "prefArea": "Bsc physics",
+        "excUni": "Sri lanka Institute of Information Technology"
+    },
+    "7": {
+        "id": "7",
+        "regionCode": "E07000210",
+        "region": "Trincomalee",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "506",
+        "avgPerfPerStd": "807.3",
+        "avgPerfPerEntry": "217.7",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "B": "2",
+            "C": "1"
+        },
+        "percOfStudents": "95.3",
+        "prefArea": "Bsc Animation",
+        "excUni": "Cinec Campus"
+    },
+    "8": {
+        "id": "8",
+        "regionCode": "E07000211",
+        "region": "Negombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "833",
+        "avgPerfPerStd": "746.5",
+        "avgPerfPerEntry": "220.5",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "B": "3"
+        },
+        "percOfStudents": "94.1",
+        "prefArea": "Bsc Chemistry Course Curriculum",
+        "excUni": "Informatics Institute of Technology"
+    },
+    "9": {
+        "id": "9",
+        "regionCode": "E07000212",
+        "region": "Anuradhapura",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "421",
+        "avgPerfPerStd": "718.0",
+        "avgPerfPerEntry": "212.8",
+        "olvlRes": {
+            "A": "4",
+            "B": "2",
+            "C": "3"
+        },
+        "alvlRes": {
+            "B": "1",
+            "C": "2"
+        },
+        "percOfStudents": "92.2",
+        "prefArea": "Bsc Biotechnology",
+        "excUni": "Sri lanka Institute of Information Technology"
+    },
+    "10": {
+        "id": "10",
+        "regionCode": "E07000213",
+        "region": "Jaffna",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "556",
+        "avgPerfPerStd": "691.4",
+        "avgPerfPerEntry": "208.5",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "C": "3"
+        },
+        "percOfStudents": "92.1",
+        "prefArea": "Bsc IT",
+        "excUni": "British College of Applied Studies"
+    },
+    "11": {
+        "id": "11",
+        "regionCode": "E07000214",
+        "region": "colombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "684",
+        "avgPerfPerStd": "812.7",
+        "avgPerfPerEntry": "216.0",
+        "olvlRes": {
+            "A": "7",
+            "B": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "A": "1",
+            "C": "2"
+        },
+        "percOfStudents": "96.2",
+        "prefArea": "Bsc Home Science",
+        "excUni": "APIIT"
+    },
+    "12": {
+        "id": "12",
+        "regionCode": "E07000215",
+        "region": "bambalapitiya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "492",
+        "avgPerfPerStd": "751.2",
+        "avgPerfPerEntry": "218.2",
+        "olvlRes": {
+            "A": "4",
+            "C": "3",
+            "S": "1"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "96.5",
+        "prefArea": "Bsc physics",
+        "excUni": "AOD"
+    },
+    "13": {
+        "id": "13",
+        "regionCode": "E07000216",
+        "region": "Vavuniya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "752",
+        "avgPerfPerStd": "788.1",
+        "avgPerfPerEntry": "222.4",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "95.6",
+        "prefArea": "Bsc Animation",
+        "excUni": "South East University of Sri Lanka"
+    },
+    "14": {
+        "id": "14",
+        "regionCode": "E07000217",
+        "region": "bambalapitiya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "703",
+        "avgPerfPerStd": "766.6",
+        "avgPerfPerEntry": "217.6",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "95.2",
+        "prefArea": "Bsc Economics",
+        "excUni": "AOD"
+    },
+    "15": {
+        "id": "15",
+        "regionCode": "E92000001",
+        "region": "Homagama",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "346833",
+        "avgPerfPerStd": "714.6",
+        "avgPerfPerEntry": "209.3",
+        "olvlRes": {
+            "C": "6",
+            "B": "2",
+            "A": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "C": "1"
+        },
+        "percOfStudents": "93.1",
+        "prefArea": "BSc Geography",
+        "excUni": "NSBM Green University"
+    },
+    "16": {
+        "id": "16",
+        "regionCode": "E12000008",
+        "region": "Dambulla",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "57934",
+        "avgPerfPerStd": "729.8",
+        "avgPerfPerEntry": "211.5",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "A": "1",
+            "C": "2"
+        },
+        "percOfStudents": "93.2",
+        "prefArea": "Bsc in Art faculty",
+        "excUni": "Informatics Institute of Technology"
+    },
+    "17": {
+        "id": "17",
+        "regionCode": "E10000030",
+        "region": "Homagama",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "7607",
+        "avgPerfPerStd": "756.3",
+        "avgPerfPerEntry": "214.8",
+        "olvlRes": {
+            "A": "4",
+            "B": "4",
+            "C": "3"
+        },
+        "alvlRes": {
+            "C": "3"
+        },
+        "percOfStudents": "94.2",
+        "prefArea": "Bsc Geology",
+        "excUni": "NSBM Green University"
+    },
+    "18": {
+        "id": "18",
+        "regionCode": "E07000207",
+        "region": "Wadduwa",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "744",
+        "avgPerfPerStd": "763.4",
+        "avgPerfPerEntry": "218.5",
+        "olvlRes": {
+            "B": "3",
+            "C": "2",
+            "A": "5"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "95.0",
+        "prefArea": "Bsc Nursing",
+        "excUni": "Spectrum Institute of Science and Technology"
+    },
+    "19": {
+        "id": "19",
+        "regionCode": "E07000208",
+        "region": "Wellawatte",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "567",
+        "avgPerfPerStd": "775.0",
+        "avgPerfPerEntry": "216.8",
+        "olvlRes": {
+            "A": "4",
+            "C": "3",
+            "S": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "C": "1"
+        },
+        "percOfStudents": "96.3",
+        "prefArea": "Bsc Electronics & Communication",
+        "excUni": "Sri lanka Institute of Information Technology"
+    },
+    "20": {
+        "id": "20",
+        "regionCode": "E07000209",
+        "region": "Battaramulla",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "857",
+        "avgPerfPerStd": "783.0",
+        "avgPerfPerEntry": "217.3",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "1",
+            "C": "1"
+        },
+        "percOfStudents": "93.3",
+        "prefArea": "Bsc Computer Science",
+        "excUni": "Informatics Institute of Technology"
+    },
+    "21": {
+        "id": "21",
+        "regionCode": "E07000210",
+        "region": "Trincomalee",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "617",
+        "avgPerfPerStd": "778.9",
+        "avgPerfPerEntry": "206.9",
+        "olvlRes": {
+            "A": "4",
+            "B": "2",
+            "C": "3"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "95.9",
+        "prefArea": "Bsc IT",
+        "excUni": "Cinec Campus"
+    },
+    "22": {
+        "id": "22",
+        "regionCode": "E07000211",
+        "region": "Negombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "915",
+        "avgPerfPerStd": "734.4",
+        "avgPerfPerEntry": "220.4",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "B": "2",
+            "C": "1"
+        },
+        "percOfStudents": "95.3",
+        "prefArea": "Bsc Forestry",
+        "excUni": "National Institute of Business Management"
+    },
+    "23": {
+        "id": "23",
+        "regionCode": "E07000212",
+        "region": "colombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "466",
+        "avgPerfPerStd": "717.9",
+        "avgPerfPerEntry": "210.7",
+        "olvlRes": {
+            "B": "5",
+            "2": " ",
+            "1": " "
+        },
+        "alvlRes": {
+            "C": "1",
+            "S": "2"
+        },
+        "percOfStudents": "95.1",
+        "prefArea": "Bsc Botany",
+        "excUni": "APIIT"
+    },
+    "24": {
+        "id": "24",
+        "regionCode": "E07000213",
+        "region": "Jaffna",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "604",
+        "avgPerfPerStd": "670.5",
+        "avgPerfPerEntry": "203.6",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "S": "1",
+            "C": "2"
+        },
+        "percOfStudents": "91.6",
+        "prefArea": "Bsc Animation",
+        "excUni": "Spectrum Institute of Science and Technology"
+    },
+    "25": {
+        "id": "25",
+        "regionCode": "E07000214",
+        "region": "maya avenu",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "736",
+        "avgPerfPerStd": "816.6",
+        "avgPerfPerEntry": "213.4",
+        "olvlRes": {
+            "A": "4",
+            "B": "4",
+            "C": "3"
+        },
+        "alvlRes": {
+            "S": "3"
+        },
+        "percOfStudents": "94.2",
+        "prefArea": "BSc Geography",
+        "excUni": "ANC Education"
+    },
+    "26": {
+        "id": "26",
+        "regionCode": "E07000215",
+        "region": "Kalmunai",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "558",
+        "avgPerfPerStd": "696.9",
+        "avgPerfPerEntry": "210.6",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "S": "1",
+            "C": "2"
+        },
+        "percOfStudents": "94.4",
+        "prefArea": "Bsc Mathematics Course Curriculum",
+        "excUni": "saegis campus"
+    },
+    "27": {
+        "id": "27",
+        "regionCode": "E07000216",
+        "region": "Vavuniya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "842",
+        "avgPerfPerStd": "786.2",
+        "avgPerfPerEntry": "220.2",
+        "olvlRes": {
+            "A": "4",
+            "C": "3",
+            "S": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "93.7",
+        "prefArea": "Bsc in Art faculty",
+        "excUni": "South East University of Sri Lanka"
+    },
+    "28": {
+        "id": "28",
+        "regionCode": "E07000217",
+        "region": "Kurunegala",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "701",
+        "avgPerfPerStd": "757.5",
+        "avgPerfPerEntry": "216.8",
+        "olvlRes": {
+            "C": "6",
+            "B": "2",
+            "A": "1"
+        },
+        "alvlRes": {
+            "C": "1",
+            "S": "2"
+        },
+        "percOfStudents": "91.3",
+        "prefArea": "Bsc Admission Process",
+        "excUni": "Sri Lanka Technological Campus"
+    },
+    "29": {
+        "id": "29",
+        "regionCode": "E92000001",
+        "region": "Kelaniya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "358474",
+        "avgPerfPerStd": "706.4",
+        "avgPerfPerEntry": "210.6",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "91.7",
+        "prefArea": "Bsc Chemistry Course Curriculum",
+        "excUni": "British College of Applied Studies"
+    },
+    "30": {
+        "id": "30",
+        "regionCode": "E12000008",
+        "region": "Dambulla",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "57780",
+        "avgPerfPerStd": "725.8",
+        "avgPerfPerEntry": "212.9",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "C": "1"
+        },
+        "percOfStudents": "92.3",
+        "prefArea": "Bsc Biochemistry",
+        "excUni": "NSBM Green University"
+    },
+    "31": {
+        "id": "31",
+        "regionCode": "E10000030",
+        "region": "Polonnaruwa",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "7662",
+        "avgPerfPerStd": "750.3",
+        "avgPerfPerEntry": "215.7",
+        "olvlRes": {
+            "A": "7",
+            "B": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "B": "2",
+            "C": "1"
+        },
+        "percOfStudents": "92.7",
+        "prefArea": "BSc Horticulture",
+        "excUni": "ICBT Campus"
+    },
+    "32": {
+        "id": "32",
+        "regionCode": "E07000207",
+        "region": "Panadura",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "735",
+        "avgPerfPerStd": "739.8",
+        "avgPerfPerEntry": "217.3",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "S": "3"
+        },
+        "percOfStudents": "92.0",
+        "prefArea": "Bsc Home Science",
+        "excUni": "National Institute of Business Management"
+    },
+    "33": {
+        "id": "33",
+        "regionCode": "E07000208",
+        "region": "Kollupitiya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "638",
+        "avgPerfPerStd": "757.2",
+        "avgPerfPerEntry": "218.2",
+        "olvlRes": {
+            "A": "4",
+            "B": "4",
+            "C": "3"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "95.6",
+        "prefArea": "Bsc Chemistry Course Curriculum",
+        "excUni": "APIIT"
+    },
+    "34": {
+        "id": "34",
+        "regionCode": "E07000209",
+        "region": "Battaramulla",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "805",
+        "avgPerfPerStd": "767.5",
+        "avgPerfPerEntry": "214.0",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "S": "1",
+            "C": "2"
+        },
+        "percOfStudents": "93.3",
+        "prefArea": "Bsc Electronics & Communication",
+        "excUni": "Sri lanka Institute of Information Technology"
+    },
+    "35": {
+        "id": "35",
+        "regionCode": "E07000210",
+        "region": "Trincomalee",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "650",
+        "avgPerfPerStd": "781.0",
+        "avgPerfPerEntry": "213.0",
+        "olvlRes": {
+            "A": "4",
+            "C": "3",
+            "S": "1"
+        },
+        "alvlRes": {
+            "C": "1",
+            "S": "2"
+        },
+        "percOfStudents": "94.0",
+        "prefArea": "Bsc physics",
+        "excUni": "Cinec Campus"
+    },
+    "36": {
+        "id": "36",
+        "regionCode": "E07000211",
+        "region": "Negombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "1000",
+        "avgPerfPerStd": "735.5",
+        "avgPerfPerEntry": "222.2",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "C": "3"
+        },
+        "percOfStudents": "92.9",
+        "prefArea": "Bsc Geology",
+        "excUni": "National Institute of Business Management"
+    },
+    "37": {
+        "id": "37",
+        "regionCode": "E07000212",
+        "region": "Anuradhapura",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "442",
+        "avgPerfPerStd": "692.8",
+        "avgPerfPerEntry": "210.8",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "S": "3"
+        },
+        "percOfStudents": "91.4",
+        "prefArea": "Bsc Computer Science",
+        "excUni": "AIC Campus"
+    },
+    "38": {
+        "id": "38",
+        "regionCode": "E07000213",
+        "region": "Mullativu",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "667",
+        "avgPerfPerStd": "652.9",
+        "avgPerfPerEntry": "205.3",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "C": "1",
+            "S": "2"
+        },
+        "percOfStudents": "90.6",
+        "prefArea": "Bsc Nursing",
+        "excUni": "British College of Applied Studies"
+    },
+    "39": {
+        "id": "39",
+        "regionCode": "E07000214",
+        "region": "Ratnapura",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "735",
+        "avgPerfPerStd": "782.4",
+        "avgPerfPerEntry": "211.5",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "C": "3"
+        },
+        "percOfStudents": "91.7",
+        "prefArea": "Bsc Economics",
+        "excUni": "ICBT Campus"
+    },
+    "40": {
+        "id": "40",
+        "regionCode": "E07000215",
+        "region": "Kalmunai",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "569",
+        "avgPerfPerStd": "686.9",
+        "avgPerfPerEntry": "213.4",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "A": "2",
+            "C": "1"
+        },
+        "percOfStudents": "91.0",
+        "prefArea": "Bsc Hospitality",
+        "excUni": "University of Vocational Technology"
+    },
+    "41": {
+        "id": "41",
+        "regionCode": "E07000216",
+        "region": "Vavuniya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "764",
+        "avgPerfPerStd": "771.8",
+        "avgPerfPerEntry": "217.9",
+        "olvlRes": {
+            "B": "5",
+            "2": " ",
+            "1": " "
+        },
+        "alvlRes": {
+            "A": "1",
+            "C": "2"
+        },
+        "percOfStudents": "94.4",
+        "prefArea": "Bsc Agriculture",
+        "excUni": "South East University of Sri Lanka"
+    },
+    "42": {
+        "id": "42",
+        "regionCode": "E07000217",
+        "region": "Kurunegala",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "657",
+        "avgPerfPerStd": "758.9",
+        "avgPerfPerEntry": "218.5",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "A": "1",
+            "C": "2"
+        },
+        "percOfStudents": "92.1",
+        "prefArea": "Bsc Biochemistry",
+        "excUni": "Informatics Institute of Technology"
+    },
+    "43": {
+        "id": "43",
+        "regionCode": "E92000001",
+        "region": "Kelaniya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "362952",
+        "avgPerfPerStd": "696.3",
+        "avgPerfPerEntry": "211.5",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "89.8",
+        "prefArea": "Bsc Admission Process",
+        "excUni": "ACBT Campus"
+    },
+    "44": {
+        "id": "44",
+        "regionCode": "E12000008",
+        "region": "Dambulla",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "60097",
+        "avgPerfPerStd": "714.0",
+        "avgPerfPerEntry": "213.0",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "S": "1",
+            "C": "2"
+        },
+        "percOfStudents": "90.4",
+        "prefArea": "Bsc Zoology",
+        "excUni": "Management & Science Institute"
+    },
+    "45": {
+        "id": "45",
+        "regionCode": "E10000030",
+        "region": "Polonnaruwa",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "7824",
+        "avgPerfPerStd": "737.0",
+        "avgPerfPerEntry": "205.2",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "92.5",
+        "prefArea": "Bsc Statistics",
+        "excUni": "Sri Lanka Technological Campus"
+    },
+    "46": {
+        "id": "46",
+        "regionCode": "E07000207",
+        "region": "Moratuwa",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "811",
+        "avgPerfPerStd": "717.7",
+        "avgPerfPerEntry": "214.8",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "91.4",
+        "prefArea": "Bsc Economics",
+        "excUni": "saegis campus"
+    },
+    "47": {
+        "id": "47",
+        "regionCode": "E07000208",
+        "region": "Kollupitiya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "605",
+        "avgPerfPerStd": "768.3",
+        "avgPerfPerEntry": "221.3",
+        "olvlRes": {
+            "B": "3",
+            "D": "4",
+            "C": "2"
+        },
+        "alvlRes": {
+            "A": "1",
+            "C": "2"
+        },
+        "percOfStudents": "95.0",
+        "prefArea": "Bsc Chemistry Course Curriculum",
+        "excUni": "AIC Campus"
+    },
+    "48": {
+        "id": "48",
+        "regionCode": "E07000209",
+        "region": "Battaramulla",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "834",
+        "avgPerfPerStd": "761.8",
+        "avgPerfPerEntry": "217.7",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "93.9",
+        "prefArea": "Bsc Fashion Designing",
+        "excUni": "saegis campus"
+    },
+    "49": {
+        "id": "49",
+        "regionCode": "E07000210",
+        "region": "Trincomalee",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "626",
+        "avgPerfPerStd": "790.3",
+        "avgPerfPerEntry": "215.0",
+        "olvlRes": {
+            "A": "4",
+            "B": "4",
+            "C": "3"
+        },
+        "alvlRes": {
+            "A": "2",
+            "B": "1"
+        },
+        "percOfStudents": "94.9",
+        "prefArea": "BSc Geography",
+        "excUni": "Cinec Campus"
+    },
+    "50": {
+        "id": "50",
+        "regionCode": "E07000211",
+        "region": "Negombo",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "979",
+        "avgPerfPerStd": "735.3",
+        "avgPerfPerEntry": "221.5",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "B": "1",
+            "C": "2"
+        },
+        "percOfStudents": "92.1",
+        "prefArea": "BSc Horticulture",
+        "excUni": "ICBT Campus"
+    },
+    "51": {
+        "id": "51",
+        "regionCode": "E07000212",
+        "region": "Anuradhapura",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "444",
+        "avgPerfPerStd": "676.0",
+        "avgPerfPerEntry": "208.1",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "C": "1",
+            "S": "2"
+        },
+        "percOfStudents": "87.6",
+        "prefArea": "Bsc Agriculture",
+        "excUni": "ICBT Campus"
+    },
+    "52": {
+        "id": "52",
+        "regionCode": "E07000213",
+        "region": "Mullativu",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "654",
+        "avgPerfPerStd": "664.8",
+        "avgPerfPerEntry": "206.4",
+        "olvlRes": {
+            "A": "4",
+            "C": "3",
+            "S": "1"
+        },
+        "alvlRes": {
+            "B": "2",
+            "C": "1"
+        },
+        "percOfStudents": "90.1",
+        "prefArea": "Bsc Fashion Designing",
+        "excUni": "AIC Campus"
+    },
+    "53": {
+        "id": "53",
+        "regionCode": "E07000214",
+        "region": "Kollupitiya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "733",
+        "avgPerfPerStd": "772.2",
+        "avgPerfPerEntry": "214.2",
+        "olvlRes": {
+            "A": "4",
+            "B": "2",
+            "C": "3"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "92.0",
+        "prefArea": "Bsc IT",
+        "excUni": "ACBT Campus"
+    },
+    "54": {
+        "id": "54",
+        "regionCode": "E07000215",
+        "region": "Kalmunai",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "585",
+        "avgPerfPerStd": "701.7",
+        "avgPerfPerEntry": "216.7",
+        "olvlRes": {
+            "A": "7",
+            "B": "1",
+            "C": "4"
+        },
+        "alvlRes": {
+            "A": "1",
+            "B": "2"
+        },
+        "percOfStudents": "92.0",
+        "prefArea": "Bsc Chemistry Course Curriculum",
+        "excUni": "Management & Science Institute"
+    },
+    "55": {
+        "id": "55",
+        "regionCode": "E07000216",
+        "region": "Vavuniya",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "802",
+        "avgPerfPerStd": "757.9",
+        "avgPerfPerEntry": "217.8",
+        "olvlRes": {
+            "B": "5",
+            "S": "2",
+            "C": "1"
+        },
+        "alvlRes": {
+            "S": "1",
+            "C": "2"
+        },
+        "percOfStudents": "95.4",
+        "prefArea": "Bsc community Science",
+        "excUni": "South East University of Sri Lanka"
+    },
+    "56": {
+        "id": "56",
+        "regionCode": "E07000217",
+        "region": "kandy",
+        "timePeriod": "2020/21",
+        "allStudentLv3": "751",
+        "avgPerfPerStd": "732.6",
+        "avgPerfPerEntry": "215.4",
+        "olvlRes": {
+            "A": "6",
+            "S": "3",
+            "B": "1"
+        },
+        "alvlRes": {
+            "S": "1",
+            "C": "2"
+        },
+        "percOfStudents": "91.1",
+        "prefArea": "Bsc Electronics & Communication",
+        "excUni": "ANC Education"
+    }
+}
