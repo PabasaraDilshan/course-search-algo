@@ -3,7 +3,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from search import *
 
 hostName = "localhost"
-serverPort = 5000
+serverPort = 4800
 
 class MyServer(BaseHTTPRequestHandler):
     def _set_headers(self):
@@ -24,27 +24,34 @@ class MyServer(BaseHTTPRequestHandler):
         self.wfile.write(bytes("</body></html>", "utf-8"))
     def do_POST(self):
         ctype, pdict = cgi.parse_header(self.headers.get_content_type())
-
-        
-        # refuse to receive non-json content
-        if ctype != 'application/json':
+        try:
+            if self.path !="/course/search":
+                self.send_response(400)
+                self.end_headers()
+                return
+            # refuse to receive non-json content
+            if ctype != 'application/json':
+                self.send_response(400)
+                self.end_headers()
+                return
+                
+            # read the message and convert it into a python dictionary
+            length = int(self.headers.get('content-length'))
+            reqBody = json.loads(self.rfile.read(length))
+            # # add a property to the object, just to mess with data
+            # message['received'] = 'ok'
+            # print(message)
+            # end the message back
+            message = {}
+            message['courses'] = searchCourse(reqBody["result"],reqBody["type"])
+            message["count"] = len(message["courses"])
+            self._set_headers()
+            self.wfile.write(bytes(json.dumps(message),"utf-8"))
+        except Exception as e:
+            print(e)
             self.send_response(400)
             self.end_headers()
             return
-            
-        # read the message and convert it into a python dictionary
-        length = int(self.headers.get('content-length'))
-        reqBody = json.loads(self.rfile.read(length))
-        
-        # # add a property to the object, just to mess with data
-        # message['received'] = 'ok'
-        # print(message)
-        # end the message back
-        message = {}
-        message['courses'] = searchCourse(reqBody["result"],reqBody["type"])
-        message["count"] = len(message["courses"])
-        self._set_headers()
-        self.wfile.write(bytes(json.dumps(message),"utf-8"))
 if __name__ == "__main__":        
     webServer = HTTPServer((hostName, serverPort), MyServer)
     print("Server started http://%s:%s" % (hostName, serverPort))

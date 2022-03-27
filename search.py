@@ -16,7 +16,9 @@ alvlRes = {
         }
 def calcGrade(result):
     val = 0
+    count = 0
     for k in result:
+        count+=int(result[k])
         if(k=="A"):
             val+=75*int(result[k])
         elif(k=="B"):
@@ -27,7 +29,7 @@ def calcGrade(result):
             val+=55*int(result[k])
         elif(k=="S"):
             val+=45*int(result[k])
-    return val
+    return val/count
 
 
 def searchCourse(result, type="o"):
@@ -35,8 +37,13 @@ def searchCourse(result, type="o"):
     courses = []
     for key in json_data:
         requiredGrade = calcGrade(json_data[key][type+"lvlRes"])
-        if(grade>requiredGrade):
+        if(grade>=requiredGrade):
             courses.append(json_data[key])
+        else:
+            # print(json_data[key][type+"lvlRes"])
+            # print(grade)
+            # print(requiredGrade)
+            pass
     return courses
 
 # print(searchCourse(olvlRes))
