@@ -21,7 +21,7 @@ id,regionCode,region,timePeriod,allStudentLv3,avgPerfPerStd,avgPerfPerEntry,olvl
 20,E07000209,Battaramulla,2020/21,857,783,217.3,"6A, 3S, 1B","1A, 1B, 1C",93.3,Bsc Computer Science,Informatics Institute of Technology
 21,E07000210,Trincomalee,2020/21,617,778.9,206.9,"4A, 2B, 3C","2A, 1B",95.9,Bsc IT,Cinec Campus
 22,E07000211,Negombo,2020/21,915,734.4,220.4,"6A, 3S, 1B","2B, 1C",95.3,Bsc Forestry,National Institute of Business Management
-23,E07000212,colombo,2020/21,466,717.9,210.7,"5B,  2S,  1C","1C, 2S",95.1,Bsc Botany,APIIT
+23,E07000212,colombo,2020/21,466,717.9,210.7,"5B, 2S, 1C","1C, 2S",95.1,Bsc Botany,APIIT
 24,E07000213,Jaffna,2020/21,604,670.5,203.6,"7A, 1B, 4C","1S, 2C",91.6,Bsc Animation,Spectrum Institute of Science and Technology
 25,E07000214,maya avenu,2020/21,736,816.6,213.4,"4A, 4B, 3C",3S,94.2,BSc Geography,ANC Education
 26,E07000215,Kalmunai,2020/21,558,696.9,210.6,"6A, 3S, 1B","1S, 2C",94.4,Bsc Mathematics Course Curriculum,saegis campus
@@ -39,7 +39,7 @@ id,regionCode,region,timePeriod,allStudentLv3,avgPerfPerStd,avgPerfPerEntry,olvl
 38,E07000213,Mullativu,2020/21,667,652.9,205.3,"7A, 1B, 4C","1C, 2S",90.6,Bsc Nursing,British College of Applied Studies
 39,E07000214,Ratnapura,2020/21,735,782.4,211.5,"5B, 2S, 1C",3C,91.7,Bsc Economics,ICBT Campus
 40,E07000215,Kalmunai,2020/21,569,686.9,213.4,"7A, 1B, 4C","2A, 1C",91,Bsc Hospitality,University of Vocational Technology
-41,E07000216,Vavuniya,2020/21,764,771.8,217.9,"5B,  2S,  1C","1A, 2C",94.4,Bsc Agriculture,South East University of Sri Lanka
+41,E07000216,Vavuniya,2020/21,764,771.8,217.9,"5B, 2S, 1C","1A, 2C",94.4,Bsc Agriculture,South East University of Sri Lanka
 42,E07000217,Kurunegala,2020/21,657,758.9,218.5,"7A, 1B, 4C","1A, 2C",92.1,Bsc Biochemistry,Informatics Institute of Technology
 43,E92000001,Kelaniya,2020/21,362952,696.3,211.5,"6A, 3S, 1B","2A, 1B",89.8,Bsc Admission Process,ACBT Campus
 44,E12000008,Dambulla,2020/21,60097,714,213,"7A, 1B, 4C","1S, 2C",90.4,Bsc Zoology,Management & Science Institute

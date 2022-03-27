@@ -21,6 +21,8 @@ def calcGrade(result):
             val+=75*int(result[k])
         elif(k=="B"):
             val+=65*int(result[k])
+        elif(k=="D"):
+            val+=75*int(result[k])
         elif(k=="C"):
             val+=55*int(result[k])
         elif(k=="S"):
@@ -37,8 +39,8 @@ def searchCourse(result, type="o"):
             courses.append(json_data[key])
     return courses
 
-print(searchCourse(olvlRes))
-print(searchCourse(alvlRes,"a")
+# print(searchCourse(olvlRes))
+# print(searchCourse(alvlRes,"a")
             
 
 
