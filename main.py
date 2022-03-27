@@ -38,7 +38,7 @@ def searchCourse(result, type="o"):
     return courses
 
 print(searchCourse(olvlRes))
-print(searchCourse(alvlRes))
+print(searchCourse(alvlRes,"a")a
             
 
 
