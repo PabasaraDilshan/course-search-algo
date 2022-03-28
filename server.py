@@ -8,9 +8,14 @@ serverPort = 4800
 class MyServer(BaseHTTPRequestHandler):
     def _set_headers(self):
         self.send_response(200)
+        self._send_cors_headers()
         self.send_header('Content-type', 'application/json')
         self.end_headers()
-        
+    def _send_cors_headers(self):
+      """ Sets headers required for CORS """
+      self.send_header("Access-Control-Allow-Origin", "*")
+      self.send_header("Access-Control-Allow-Methods", "GET,POST,OPTIONS")
+      self.send_header("Access-Control-Allow-Headers", "x-api-key,Content-Type")
     def do_HEAD(self):
         self._set_headers()
     def do_GET(self):
@@ -22,6 +27,12 @@ class MyServer(BaseHTTPRequestHandler):
         self.wfile.write(bytes("<body>", "utf-8"))
         self.wfile.write(bytes("<p>This is an example web server.</p>", "utf-8"))
         self.wfile.write(bytes("</body></html>", "utf-8"))
+    def do_OPTIONS(self):
+        self.send_response(200, "ok")                     
+        self._send_cors_headers()
+         
+        self.end_headers()
+
     def do_POST(self):
         ctype, pdict = cgi.parse_header(self.headers.get_content_type())
         try:
@@ -45,6 +56,7 @@ class MyServer(BaseHTTPRequestHandler):
             message = {}
             message['courses'] = searchCourse(reqBody["result"],reqBody["type"])
             message["count"] = len(message["courses"])
+            print(message)
             self._set_headers()
             self.wfile.write(bytes(json.dumps(message),"utf-8"))
         except Exception as e:
