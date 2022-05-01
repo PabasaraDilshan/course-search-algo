@@ -1,8 +1,11 @@
 import cgi
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from search import *
-
-hostName = "localhost"
+import socket
+s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+s.connect(("8.8.8.8", 80))
+hostName = s.getsockname()[0]
+s.close()
 serverPort = 4800
 
 class MyServer(BaseHTTPRequestHandler):
